@@ -1,0 +1,8 @@
+streamlit
+yfinance
+pandas
+openpyxl
+python-calamine
+tqdm
+google-genai
+python-dotenv
